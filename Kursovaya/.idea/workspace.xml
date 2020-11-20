@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6eab9fb-c944-455c-bf84-44b9d7f30744" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15.2" />
+  <component name="ProjectId" id="1kWLz3PtzDY02j2POAGmDazlkOw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build Kursovaya" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="Kursovaya" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="Kursovaya" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="320" key="#Go_Modules" timestamp="1605913502154">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="568" y="320" key="#Go_Modules/0.0.1536.960@0.0.1536.960" timestamp="1605913502154" />
+    <state x="247" y="316" key="#SQL_Dialects" timestamp="1605817558926">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="247" y="316" key="#SQL_Dialects/0.0.1536.960@0.0.1536.960" timestamp="1605817558926" />
+    <state x="232" y="142" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605913834147">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="232" y="142" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1605913834147" />
+    <state x="763" y="289" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605817197192">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="763" y="289" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.960@0.0.1536.960" timestamp="1605817197192" />
+    <state width="1494" height="265" key="GridCell.Tab.0.bottom" timestamp="1605913942934">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="265" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1605913942934" />
+    <state width="1494" height="265" key="GridCell.Tab.0.center" timestamp="1605913942933">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="265" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1605913942933" />
+    <state width="1494" height="265" key="GridCell.Tab.0.left" timestamp="1605913942932">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="265" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1605913942932" />
+    <state width="1494" height="265" key="GridCell.Tab.0.right" timestamp="1605913942934">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="265" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1605913942934" />
+    <state width="1494" height="328" key="GridCell.Tab.1.bottom" timestamp="1605903075440">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="328" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1605903075440" />
+    <state width="1494" height="328" key="GridCell.Tab.1.bottom/0.23.1536.937@0.23.1536.937" timestamp="1605903070094" />
+    <state width="1494" height="328" key="GridCell.Tab.1.center" timestamp="1605903075439">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="328" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1605903075439" />
+    <state width="1494" height="328" key="GridCell.Tab.1.center/0.23.1536.937@0.23.1536.937" timestamp="1605903070093" />
+    <state width="1494" height="328" key="GridCell.Tab.1.left" timestamp="1605903075438">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="328" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1605903075438" />
+    <state width="1494" height="328" key="GridCell.Tab.1.left/0.23.1536.937@0.23.1536.937" timestamp="1605903070093" />
+    <state width="1494" height="328" key="GridCell.Tab.1.right" timestamp="1605903075439">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="328" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1605903075439" />
+    <state width="1494" height="328" key="GridCell.Tab.1.right/0.23.1536.937@0.23.1536.937" timestamp="1605903070094" />
+  </component>
+</project>
